@@ -124,7 +124,7 @@
   gEfiShellPkgTokenSpaceGuid.PcdShellScreenLogCount|3|UINT8|0x00000008
 
   ## Unicode string of the shell supplier
-  gEfiShellPkgTokenSpaceGuid.PcdShellSupplier|L"UDK2018 VS2017/20180414 "|VOID*|0x00000010
+  gEfiShellPkgTokenSpaceGuid.PcdShellSupplier|L"UDK2018 VS2017/20180724 for Fujitsu"|VOID*|0x00000010
 
   ## Do extended decode of USB for determining media type
   gEfiShellPkgTokenSpaceGuid.PcdUsbExtendedDecode|TRUE|BOOLEAN|0x00000011
